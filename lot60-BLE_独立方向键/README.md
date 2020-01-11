@@ -20,5 +20,8 @@
 3. 层模式选择简单
 4. 复合层中 粘贴进 keyboard-layout-editor 的 Raw data
 5. Fn0选择：层操作 > 瞬时开启 层 1
-6. Fn1选择：背光操作 > 开关
-7. Fn2选择：背光操作 > 减档
+6. Fn1选择：其他 > 内置功能 Power Off
+7. Fn2选择：其他 > 内置功能 Switch USB
+
+
+<img width='1249' src='https://github.com/OpenFibers/gh60_keyboards/raw/master/lot60-BLE_独立方向键/tkg.png'></img>
